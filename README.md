@@ -6,8 +6,9 @@
 **MELIATO/MELIATO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-https://github.com/MELIATO/MELIATO/assets/120141892/24256c23-5bd6-463b-b84b-532705dc25ce.gif
 
+
+![20230603_115501](https://github.com/MELIATO/MELIATO/assets/120141892/a78128a0-c890-440e-96be-e7b62fbd7fc6)
 
 
 
