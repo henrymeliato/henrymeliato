@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 -->
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henrymeliato&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrymeliato&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henrymeliato&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
+  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrymeliato&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <div align="center"><br>
   <div style="display: inline_block"><br>
